@@ -1,8 +1,8 @@
 > [!IMPORTANT]  
-> As of 06/02/24, Vendetta has been discontinued.
+> As of 06/02/24, Vendetta has been discontinued. As of March 29th, 2024, Rabbitcord was forked
 
-# Vendetta
-A mod for Discord's mobile apps.
+# Rabbitcord
+A mod for Discord's mobile apps. Based on Vendetta
 
 ## Installing
 Vendetta's codebase is platform-agnostic, but you need a platform-specific loader.
