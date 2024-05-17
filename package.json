@@ -26,7 +26,7 @@
         "typescript": "^5.0.4"
     },
     "dependencies": {
-        "@swc/helpers": "0.5.10",
+        "@swc/helpers": "0.5.11",
         "spitroast": "^1.4.3"
     },
     "pnpm": {
