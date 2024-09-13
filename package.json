@@ -27,7 +27,7 @@
     },
     "dependencies": {
         "@swc/helpers": "0.5.12",
-        "spitroast": "^1.4.3"
+        "spitroast": "^2.0.2"
     },
     "pnpm": {
         "peerDependencyRules": {
